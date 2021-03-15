@@ -1,0 +1,8 @@
+{
+  "name": "tedu_social",
+  "version": "1.0.0",
+  "description": "nguyen trong doan dang hoc tedu-41",
+  "main": "src/server.ts",
+  "author": "Nguyen Trong Doan",
+  "license": "MIT"
+}
